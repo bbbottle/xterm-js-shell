@@ -1,4 +1,4 @@
-import LocalEchoController from 'local-echo'
+import LocalEchoController from '@fikrikarim/local-echo'
 import {EventIterator} from 'event-iterator'
 
 const style = require('ansi-styles')
