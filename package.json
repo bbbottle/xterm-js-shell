@@ -1,6 +1,6 @@
 {
   "name": "@bbbottle/xterm-js-shell",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Building block for CLI environments for xterm.js",
   "main": "dist/index.js",
   "scripts": {
@@ -49,7 +49,7 @@
     "string-to-argv": "^1.0.0"
   },
   "devDependencies": {
-    "@bbbottle/bbbundle": "^0.0.9",
+    "@bbbottle/bbbundle": "0.1.7",
     "parcel-bundler": "^1.12.3"
   }
 }
